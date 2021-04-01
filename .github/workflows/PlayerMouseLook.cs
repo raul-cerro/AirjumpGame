@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MouseLook : MonoBehaviour
+public class PlayerMouseLook : MonoBehaviour
 {
     public float mouseSensitivity = 105f;
     public Transform playerBody;
